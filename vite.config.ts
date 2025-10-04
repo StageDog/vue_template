@@ -1,4 +1,5 @@
 import vue from '@vitejs/plugin-vue';
+import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import unpluginAutoImport from 'unplugin-auto-import/vite';
 import { VueUseComponentsResolver, VueUseDirectiveResolver } from 'unplugin-vue-components/resolvers';
@@ -29,6 +30,8 @@ export default defineConfig(({ mode }) => ({
       globs: ['src/components/*.vue'],
     }),
   ],
+
+  base: process.env.CI === 'true' ? '/' + path.basename(path.dirname(import.meta.url)) : '/',
 
   resolve: {
     alias: {
