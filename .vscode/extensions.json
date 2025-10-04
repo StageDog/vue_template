@@ -1,0 +1,24 @@
+{
+  "recommendations": [
+    "EditorConfig.EditorConfig",
+    "antfu.browse-lite",
+    "antfu.vite",
+    "bradlc.vscode-tailwindcss",
+    "davidanson.vscode-markdownlint",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "firefox-devtools.vscode-firefox-debug",
+    "mhutchie.git-graph",
+    "ms-ceintl.vscode-language-pack-zh-hans",
+    "ms-vscode.live-server",
+    "redhat.vscode-xml",
+    "redhat.vscode-yaml",
+    "ritwickdey.liveserver",
+    "tamasfe.even-better-toml",
+    "usernamehw.errorlens",
+    "vitest.explorer",
+    "vscode-icons-team.vscode-icons",
+    "vue.volar",
+    "yzhang.markdown-all-in-one"
+  ]
+}
