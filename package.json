@@ -34,7 +34,7 @@
     "@types/node": "^22.19.19",
     "@typescript-eslint/parser": "^8.59.4",
     "@vitejs/plugin-vue": "^6.0.7",
-    "@vitest/eslint-plugin": "^1.6.17",
+    "@vitest/eslint-plugin": "^1.6.18",
     "@vue/test-utils": "^2.4.10",
     "@vue/tsconfig": "^0.8.1",
     "autoprefixer": "^10.5.0",
