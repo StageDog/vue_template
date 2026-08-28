@@ -23,7 +23,7 @@
     "pinia": "^3.0.4",
     "tailwindcss": "^4.3.3",
     "type-fest": "^5.8.0",
-    "vue": "^3.5.41",
+    "vue": "^3.5.42",
     "vue-router": "^4.6.4"
   },
   "devDependencies": {
@@ -35,7 +35,7 @@
     "@typescript-eslint/parser": "^8.68.0",
     "@vitejs/plugin-vue": "^6.0.8",
     "@vitest/eslint-plugin": "^1.6.27",
-    "@vue/test-utils": "^2.4.11",
+    "@vue/test-utils": "^2.5.0",
     "@vue/tsconfig": "^0.8.1",
     "autoprefixer": "^10.5.4",
     "eslint": "^9.39.5",
