@@ -37,7 +37,7 @@
     "@vitest/eslint-plugin": "^1.6.27",
     "@vue/test-utils": "^2.5.0",
     "@vue/tsconfig": "^0.8.1",
-    "autoprefixer": "^10.5.5",
+    "autoprefixer": "^10.6.0",
     "eslint": "^9.39.5",
     "eslint-config-prettier": "^10.1.8",
     "eslint-import-resolver-typescript": "^4.4.5",
